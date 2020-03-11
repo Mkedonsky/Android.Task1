@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="im_beginner">Im beginner</string>
+    <string name="ok_you_will_success">Ok! You will success!</string>
+    <string name="im_experienced">Im experienced developer!</string>
+    <string name="lesson_1">Lesson 1</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Моё приложение</string>
+    <string name="im_beginner">Я новичок</string>
+    <string name="ok_you_will_success">Хорошо! Вы еще всему научитесь!</string>
+    <string name="im_experienced">Я уже опытный разработчик!</string>
+    <string name="lesson_1">Lesson 1</string>
+</resources>
